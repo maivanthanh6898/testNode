@@ -1,0 +1,5 @@
+CREATE TABLE `test`.`test` (
+  `ip` VARCHAR(45) NOT NULL,
+  `data` VARCHAR(45) NOT NULL,
+  `id` INT NOT NULL AUTO_INCREMENT,
+  PRIMARY KEY (`id`));
